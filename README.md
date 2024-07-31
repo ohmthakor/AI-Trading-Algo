@@ -1,4 +1,4 @@
-# AI Trading Algorithm
+# AI Trading Bot
 
 Goal: 
   The goal of this project is to create a trading algorithm which uses AI to efficiently perform stock trades.
