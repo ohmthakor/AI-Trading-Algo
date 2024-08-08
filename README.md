@@ -21,7 +21,7 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
     Alpaca Paper Trading
     Yahoo Finance
 
-## APIs used:
+## APIs
 
   #### Alpaca Trade REST API: 
   This is used for executing trades, fetching news, and accessing market data. It is accessed through the alpaca_trade_api.REST client and the Alpaca class from lumibot.brokers. 
