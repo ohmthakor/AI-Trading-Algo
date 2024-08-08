@@ -32,13 +32,13 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
 
 ## Features
 
-  #### Technical Analysis: 
+  ### Technical Analysis: 
   Utilizes the RSI (Relative Strength Index) to identify potential buy and sell signals.
-  #### Sentiment Analysis: 
+  ### Sentiment Analysis: 
   Implements AI-driven sentiment analysis using the FinBERT model to gauge market sentiment from news headlines.
-  #### Automated Trading: 
+  ### Automated Trading: 
   Executes trades based on combined signals from RSI and sentiment analysis.
-  #### Backtesting: 
+  ### Backtesting: 
   Supports backtesting with historical data from Yahoo Finance to evaluate strategy performance before live trading.
-  #### Risk Management: 
+  ### Risk Management: 
   Includes risk management features such as setting cash at risk and using bracket orders for take-profit and stop-loss.
