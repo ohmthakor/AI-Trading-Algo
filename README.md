@@ -9,6 +9,7 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
 ## Technologies
 
 **Programming Languages**:
+    ![Python] ("https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white")
     Python <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
 **Libraries**:
   - Lumibot
@@ -20,6 +21,15 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
 **Tools**:
   - Alpaca Paper Trading
   - Yahoo Finance <img src="https://simpleicons.org/icons/yahoofinance.svg" alt="Yahoo Finance" width="50" height="50"/>
+
+  <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/Transformers-FF5733?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Alpaca-000000?style=for-the-badge&logo=alpaca&logoColor=white" alt="Alpaca"/>
+  <img src="https://img.shields.io/badge/Yahoo_Finance-720E9E?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Finance"/>
+</p>
 
 
 ## APIs
