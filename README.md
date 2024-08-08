@@ -12,7 +12,7 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
     Python
 **Libraries**:
   - [Lumibot](https://github.com/Lumibot/lumibot)
-  - [Alpaca](https://alpaca.markets/) API
+  - [Alpaca](https://alpaca.markets/)
   - [pandas](https://pandas.pydata.org/)
   - [transformers](https://huggingface.co/transformers/)
   - [torch](https://pytorch.org/)
