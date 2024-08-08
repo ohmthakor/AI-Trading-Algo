@@ -1,5 +1,9 @@
 # AI Trading Bot
 
+## Overview
+
+MLTrader is an algorithmic trading strategy implemented using the Lumibot framework. The strategy combines technical indicators, such as RSI (Relative Strength Index), with AI-driven sentiment analysis to make informed trading decisions. It operates on a list of specified symbols from the S&P 500, executing trades based on market conditions and news sentiment.
+
 
 
 ## Technologies
