@@ -8,16 +8,16 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
 
 ## Technologies
 
-  ### Programming Languages: 
+  #### Programming Languages: 
     Python
-  ### Libraries:
+  #### Libraries:
     Lumibot
     Alpaca API
     pandas
     transformers
     torch
     ta
-  ### Tools:
+  #### Tools:
     Alpaca Paper Trading
     Yahoo Finance
 
