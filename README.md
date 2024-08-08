@@ -1,3 +1,5 @@
+still need to add images of charts and graphs, actal code, logs file
+
 # AI Trading Bot
 
 ## Overview
