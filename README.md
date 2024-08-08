@@ -12,7 +12,7 @@ Stock is sold when the sentiment is negative or if the stock has hit a stop-loss
 
 ## APIs used:
 
-  #### Alpaca Trade API: 
+  #### Alpaca Trade REST API: 
   This is used for executing trades, fetching news, and accessing market data. It is accessed through the alpaca_trade_api.REST client and the Alpaca class from lumibot.brokers. 
 
   #### Yahoo Finance Data:
