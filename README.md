@@ -10,7 +10,7 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
 
 **Programming Languages**:
     ![Python]("https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white")
-    Python <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
+    
 **Libraries**:
   - Lumibot
   - Alpaca <img src="https://simpleicons.org/icons/alpaca.svg" alt="Alpaca" width="30" height="30"/>
