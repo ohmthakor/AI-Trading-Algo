@@ -11,13 +11,13 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
 #### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     
-**Libraries**:
- ![Lumibot](https://img.shields.io/badge/Lumibot-20232A?style=for-the-badge&logo=lumibot&logoColor=white)
- ![Alpaca](https://img.shields.io/badge/Alpaca-0D1B2A?style=for-the-badge&logo=alpaca&logoColor=white)
- ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
- ![Transformers](https://img.shields.io/badge/Transformers-FFDA44?style=for-the-badge&logo=transformers&logoColor=black)
- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
- ![TA-Lib](https://img.shields.io/badge/TA--Lib-0277BD?style=for-the-badge&logo=ta-lib&logoColor=white)
+#### Libraries:
+![Lumibot](https://img.shields.io/badge/Lumibot-20232A?style=for-the-badge&logo=lumibot&logoColor=white)
+![Alpaca](https://img.shields.io/badge/Alpaca-0D1B2A?style=for-the-badge&logo=alpaca&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFDA44?style=for-the-badge&logo=transformers&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TA-Lib](https://img.shields.io/badge/TA--Lib-0277BD?style=for-the-badge&logo=ta-lib&logoColor=white)
 **Tools**:
   - Alpaca Paper Trading
   - Yahoo Finance <img src="https://simpleicons.org/icons/yahoofinance.svg" alt="Yahoo Finance" width="50" height="50"/>
