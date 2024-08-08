@@ -15,7 +15,8 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Alpaca-000000?style=for-the-badge&logo=alpaca&logoColor=white" alt="Alpaca"/>
   <img src="https://img.shields.io/badge/Yahoo_Finance-720E9E?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Finance"/>
-</p> ![FinBERT](https://img.shields.io/badge/FinBERT-0091EA?style=for-the-badge&logoColor=white)
+  <img src="https://img.shields.io/badge/FinBERT-0091EA?style=for-the-badge&logoColor=white" alt = FinBERT"/>
+</p> 
 
 
 ## APIs
