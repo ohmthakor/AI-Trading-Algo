@@ -8,18 +8,27 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
 
 ## Technologies
 
-  #### Programming Languages: 
+- **Programming Languages**:
     Python
-  #### Libraries:
-    Lumibot
-    Alpaca API
-    pandas
-    transformers
-    torch
-    ta
-  #### Tools:
-    Alpaca Paper Trading
-    Yahoo Finance
+- **Libraries**:
+  - [Lumibot](https://github.com/Lumibot/lumibot)
+  - [Alpaca](https://alpaca.markets/) API
+  - [pandas](https://pandas.pydata.org/)
+  - [transformers](https://huggingface.co/transformers/)
+  - [torch](https://pytorch.org/)
+  - [ta](https://github.com/bukosabino/ta)
+- **Tools**:
+  - [Alpaca Paper Trading](https://alpaca.markets/docs/trading-on-alpaca/paper-trading/)
+  - [Yahoo Finance](https://www.yahoofinanceapi.com/)
+
+<p align="center">
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="50" height="50"/>
+  <img src="https://simpleicons.org/icons/pandas.svg" alt="pandas" width="50" height="50"/>
+  <img src="https://simpleicons.org/icons/transformers.svg" alt="transformers" width="50" height="50"/>
+  <img src="https://simpleicons.org/icons/pytorch.svg" alt="torch" width="50" height="50"/>
+  <img src="https://simpleicons.org/icons/alpaca.svg" alt="Alpaca" width="50" height="50"/>
+  <img src="https://simpleicons.org/icons/yahoofinance.svg" alt="Yahoo Finance" width="50" height="50"/>
+</p>
 
 ## APIs
 
