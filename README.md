@@ -9,26 +9,18 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
 ## Technologies
 
 **Programming Languages**:
-    Python
+    Python <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
 **Libraries**:
-  - [Lumibot](https://github.com/Lumibot/lumibot)
-  - [Alpaca](https://alpaca.markets/)
-  - [pandas](https://pandas.pydata.org/)
-  - [transformers](https://huggingface.co/transformers/)
-  - [torch](https://pytorch.org/)
+  - Lumibot
+  - Alpaca <img src="https://simpleicons.org/icons/alpaca.svg" alt="Alpaca" width="30" height="30"/>
+  - pandas <img src="https://simpleicons.org/icons/pandas.svg" alt="pandas" width="30" height="30"/>
+  - transformers <img src="https://simpleicons.org/icons/transformers.svg" alt="transformers" width="30" height="30"/>
+  - torch <img src="https://simpleicons.org/icons/pytorch.svg" alt="torch" width="30" height="30"/>
   - [ta](https://github.com/bukosabino/ta)
 **Tools**:
-  - [Alpaca Paper Trading](https://alpaca.markets/docs/trading-on-alpaca/paper-trading/)
-  - [Yahoo Finance](https://www.yahoofinanceapi.com/)
+  - Alpaca Paper Trading
+  - Yahoo Finance <img src="https://simpleicons.org/icons/yahoofinance.svg" alt="Yahoo Finance" width="50" height="50"/>
 
-<p align="center">
-  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="50" height="50"/>
-  <img src="https://simpleicons.org/icons/pandas.svg" alt="pandas" width="50" height="50"/>
-  <img src="https://simpleicons.org/icons/transformers.svg" alt="transformers" width="50" height="50"/>
-  <img src="https://simpleicons.org/icons/pytorch.svg" alt="torch" width="50" height="50"/>
-  <img src="https://simpleicons.org/icons/alpaca.svg" alt="Alpaca" width="50" height="50"/>
-  <img src="https://simpleicons.org/icons/yahoofinance.svg" alt="Yahoo Finance" width="50" height="50"/>
-</p>
 
 ## APIs
 
