@@ -35,7 +35,7 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
 ## Features
 
   ### Technical Analysis: 
-  Utilizes the RSI (Relative Strength Index) to identify potential buy and sell signals.
+  Utilizes the RSI (Relative Strength Index) and Bollinger Bands to identify potential buy and sell signals.
   ### Sentiment Analysis: 
   Implements AI-driven sentiment analysis using the FinBERT model to gauge market sentiment from news headlines.
   ### Automated Trading: 
