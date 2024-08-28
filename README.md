@@ -34,7 +34,6 @@ MLTrader is an algorithmic trading strategy implemented using the Lumibot framew
 
 ## Graphs
   <img width="1465" alt="Screenshot 2024-08-27 at 5 15 03 PM" src="https://github.com/user-attachments/assets/f0916e17-33e9-44c2-952e-be16ba5d24ad">
-  <img width="630" alt="Screenshot 2024-08-27 at 5 15 33 PM" src="https://github.com/user-attachments/assets/d06652a4-c837-4c69-b60d-8bffd230663e">
   <img width="1198" alt="Screenshot 2024-08-27 at 5 16 27 PM" src="https://github.com/user-attachments/assets/24af25e1-48c5-43b0-9622-5558369632fc">
   <img width="630" alt="Screenshot 2024-08-27 at 5 15 33 PM" src="https://github.com/user-attachments/assets/6a027b2f-db60-421d-9c99-3b920dd1f075">
 
